@@ -3,7 +3,7 @@ Simple OpenCV CPU-ONLY vs. CUDA benchmark
 
 # important note
 **you have to build CUDA capable OpenCV module to start this benchmark**<br>
-*pip and Anaconda's conda/conda-forge/nvidia/intel channels has cpu-only versions yet (!)
+*pip and Anaconda's conda/conda-forge/nvidia/intel channels has cpu-only versions yet (!)*
 
 # example benchmark output
 **ASUS TUF Gaming FX706LI-H705<br>
